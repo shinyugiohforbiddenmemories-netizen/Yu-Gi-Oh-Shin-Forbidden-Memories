@@ -1,6 +1,6 @@
-# Shin-Yu-Gi-Oh-Forbidden-Memories
+# Yu-Gi-Oh-Shin-Forbidden-Memories
 
-Shin Yu-Gi-Oh! Forbidden Memories version A is a soft rebalance mod designed to enhance the original Yu-Gi-Oh! Forbidden Memories experience while preserving its core identity.
+Yu-Gi-Oh! Shin Forbidden Memories version A is a soft rebalance mod designed to enhance the original Yu-Gi-Oh! Forbidden Memories experience while preserving its core identity.
 
 The main goal of the mod is not to add new cards or radically change the original game, but rather to expand and rebalance its existing mechanics. The fusion system has been significantly expanded with new fusion paths and progression routes using only the original card pool, giving many previously underused cards new purposes and allowing a much wider variety of viable deck-building strategies.
 
@@ -20,7 +20,7 @@ The project consists of three main files:
 
 ### 1. Guide
 
-The **Guide** contains detailed information about the modifications introduced in Shin Yu-Gi-Oh! Forbidden Memories. It is highly recommended to read it before playing, as it explains the changes made to the original game and provides important information about the new progression system.
+The **Guide** contains detailed information about the modifications introduced in Yu-Gi-Oh! Shin Forbidden Memories. It is highly recommended to read it before playing, as it explains the changes made to the original game and provides important information about the new progression system.
 
 Among other things, the Guide includes:
 
