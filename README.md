@@ -11,3 +11,46 @@ Opponent decks and progression have been rebalanced as well, with characters rec
 Several additional adjustments have been made to Fusion, Equip, Magic and Trap Cards, card costs, and other mechanics. However, the guiding principle remains the same throughout the project: expand what Forbidden Memories already offers rather than replace it.
 
 In short, this mod aims to provide a more balanced, varied, challenging, and rewarding version of the original game without introducing new cards or abandoning the gameplay style that defines Forbidden Memories.
+
+---
+
+## Project Files
+
+The project consists of three main files:
+
+### 1. Guide
+
+The **Guide** contains detailed information about the modifications introduced in Shin Yu-Gi-Oh! Forbidden Memories. It is highly recommended to read it before playing, as it explains the changes made to the original game and provides important information about the new progression system.
+
+Among other things, the Guide includes:
+
+- Changes to card drops and rarity;
+- New and modified fusion possibilities;
+- Changes to Equip, Magic, and Trap Cards;
+- Card cost adjustments;
+- Opponent and progression changes;
+- Important information about obtaining cards, including the availability of card passwords at very low costs.
+
+The Guide is intended to serve as the main reference for understanding the changes made by the mod.
+
+### 2. XDelta Patch
+
+The `.xdelta` file contains the modifications made to the original game.
+
+The patch can be applied using the **xdelta-wasm online patcher**:
+
+https://kotcrab.github.io/xdelta-wasm/
+
+You will need to provide your own copy of the original game and apply the `.xdelta` patch to it.
+
+> **Note:** The original game is not included with this project.
+
+### 3. Card Finder
+
+The **Card Finder** is a Python program included to make searching for card drops easier.
+
+The program reads the drop tables provided with it and allows you to search for a card using either its **name or card number**. It then displays the available drop information for that card, making it unnecessary to manually search through the individual drop tables.
+
+The drop tables used by the Card Finder are included together with the program and correspond to the current version of the mod.
+
+> **Important:** As the project is updated, the **Guide, XDelta patch, and Card Finder/drop tables may also receive updates**. It is recommended to always use the files provided with the latest release.
