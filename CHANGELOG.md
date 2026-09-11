@@ -3,7 +3,7 @@
 ## Version 1.01
 
 - Updated the drop system for Field Cards that were previously obtainable only through passwords. These cards can now also be obtained as duel drops.
-- Added the fusion **B. Dragon Jungle King + Tyhone #2 (#555) = Red-Eyes B. Dragon**.
+- Added the fusion **B. Dragon Jungle King + Tyhone #2 = Red-Eyes B. Dragon**.
 
 ## Version 1.00
 
